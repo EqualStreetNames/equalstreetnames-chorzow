@@ -7,7 +7,6 @@ name,source,gender,wikidata,type
 "Marii Rodziewiczówny",wikidata,F,Q6761541,way
 "Marii Skłodowskiej-Curie",wikidata,F,Q7186,way
 "Stefanii Sempołowskiej",wikidata,F,Q7606372,way
-Wandy,wikidata,F,Q1757406,way
 "Świętej Anny",wikidata,F,Q164294,way
 "Świętej Barbary",wikidata,F,Q192816,way
 "Świętej Kingi",wikidata,F,Q233012,way
@@ -15,6 +14,7 @@ Wandy,wikidata,F,Q1757406,way
 "Adama Mickiewicza",wikidata,M,Q79822,way
 "Aleksandra Fredry",wikidata,M,Q380506,way
 "Alfonsa Zgrzebnioka",wikidata,M,Q2644501,way
+"Antoniego Stabika",wikidata,M,Q8201086,way
 "Augustyna Strzybnego",wikidata,M,Q108329085,way
 "Augustyna Świdra",wikidata,M,Q9162206,way
 "Bartosza Głowackiego",wikidata,M,Q2576810,way
@@ -30,6 +30,7 @@ Wandy,wikidata,F,Q1757406,way
 "Edwarda Hankego",wikidata,M,Q16542926,way
 Floriańska,wikidata,M,Q298845,way
 "Franciszka Karpińskiego",wikidata,M,Q3547,way
+"Franciszka Żwirki i Stanisława Wigury",wikidata,M,Q3849277;Q3496781,way
 "Franklina Delano Roosevelta",wikidata,M,Q8007,way
 "Franza Waxmana",wikidata,M,Q213611,way
 "Fryderyka Chopina",wikidata,M,Q1268,way
@@ -81,6 +82,7 @@ Krakusa,wikidata,M,Q1049201,way
 "Księdza Jana Gałeczki",wikidata,M,Q11717525,way
 "Księdza Józefa Czempiela",wikidata,M,Q4508863,way
 "Księdza Konrada Szwedy",wikidata,M,Q17864567,way
+"Księdza Ludwika Bojarskiego",wikidata,M,Q16486938,way
 "Księdza Norberta Bończyka",wikidata,M,Q11792814,way
 "Księdza Stanisława Konarskiego",wikidata,M,Q314261,way
 "Księdza Stanisława Staszica",wikidata,M,Q708435,way
@@ -88,14 +90,17 @@ Krakusa,wikidata,M,Q1049201,way
 "Ludwika Solskiego",wikidata,M,Q2338603,way
 "Ludwika Urbanowicza",wikidata,M,Q16573154,way
 "Ludwika Zamenhofa",wikidata,M,Q11758,way
+"Marcina Watoły",wikidata,M,Q17864569,way
 "Mariana Langiewicza",wikidata,M,Q983771,way
 "Michała Drzymały",wikidata,M,Q937489,way
+"Michała Ogińskiego",wikidata,M,Q709977,way
 "Michała Wolskiego",wikidata,M,Q11779342,way
 "Mieczysława Karłowicza",wikidata,M,Q508891,way
 "Mikołaja Kopernika",wikidata,M,Q619,way
 "Mikołaja Reja",wikidata,M,Q458235,way
 "Pawła Dombka",wikidata,M,Q2059314,way
 "Pawła Stalmacha",wikidata,M,Q634170,way
+"Piotra Niedurnego",wikidata,M,Q11817880,way
 "Piotra Skargi",wikidata,M,Q712463,way
 "Piotra Wysockiego",wikidata,M,Q2545325,way
 "Plac Adama Mickiewicza",wikidata,M,Q79822,way
@@ -110,6 +115,7 @@ Krakusa,wikidata,M,Q1049201,way
 "Rondo Wincentego Spaltensteina",wikidata,M,Q9375106,way
 "Rondo gen. Stanisława Sosabowskiego",wikidata,M,Q221531,way
 "Rondo im. Gerarda Cieślika",wikidata,M,Q947289,way
+"Rondo imienia księdza Prałata Franciszka Gębały",wikidata,M,Q105337430,way
 "Stanisława Moniuszki",wikidata,M,Q217613,way
 "Stanisława Wyspiańskiego",wikidata,M,Q312627,way
 "Stanisława Żółkiewskiego",wikidata,M,Q453523,way
@@ -128,6 +134,7 @@ Szczepańska,wikidata,M,Q161775,way
 "Wincentego Janasa",wikidata,M,Q9375024,way
 "Wincentego Styczyńskiego",wikidata,M,Q9375109,way
 "Wita Stwosza",wikidata,M,Q163800,way
+"Witolda Budryka",wikidata,M,Q9375601,way
 "Władysława Orkana",wikidata,M,Q1436828,way
 "Władysława Reymonta",wikidata,M,Q121180,way
 "Władysława Truchana",wikidata,M,Q108329474,way
