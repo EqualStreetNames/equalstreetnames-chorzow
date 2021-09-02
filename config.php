@@ -35,6 +35,7 @@ return [
         'Q5'        => true,  // human
         'Q2985549'  => true,  // mononymous person
         'Q20643955' => true,  // human biblical figure
+        'Q21070568' => true,  // human who may be fictional
 
         'Q8436'     => false, // family
         'Q101352'   => false, // family name
