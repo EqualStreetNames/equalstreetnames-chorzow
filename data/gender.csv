@@ -20,7 +20,6 @@ Wandy,wikidata,F,Q1757406,way
 "Bartosza Głowackiego",wikidata,M,Q2576810,way
 "Biskupa Adriana Włodarskiego",wikidata,M,Q9141365,way
 "Biskupa Arkadiusza Lisieckiego",wikidata,M,Q672419,way
-"Biskupa Bernarda Bogedaina",wikidata,M,Q9169178,way
 "Bolesława Chrobrego",wikidata,M,Q53436,way
 "Bolesława Limanowskiego",wikidata,M,Q4939258,way
 "Bolesława Prusa",wikidata,M,Q144439,way
@@ -42,7 +41,6 @@ Floriańska,wikidata,M,Q298845,way
 "Henryka Majętnego",wikidata,M,Q9288461,way
 "Henryka Sienkiewicza",wikidata,M,Q41502,way
 "Henryka Wieniawskiego",wikidata,M,Q272184,way
-"Hugona Kołłątaja",wikidata,M,Q127345,way
 "Ignacego Mościckiego",wikidata,M,Q310594,way
 "Ignacego Nowaka",wikidata,M,Q11711288,way
 "Ignacego Paderewskiego",wikidata,M,Q191957,way
@@ -76,8 +74,10 @@ Krakusa,wikidata,M,Q1049201,way
 "Księcia Józefa Poniatowskiego",wikidata,M,Q154382,way
 "Księdza Augustyna Kordeckiego",wikidata,M,Q2734848,way
 "Księdza Augustyna Strzybnego",wikidata,M,Q108329085,way
+"Księdza Biskupa Bernarda Bogedaina",wikidata,M,Q9169178,way
 "Księdza Biskupa Ignacego Krasickiego",wikidata,M,Q380545,way
 "Księdza Biskupa Józefa Gawliny",wikidata,M,Q11730226,way
+"Księdza Hugona Kołłątaja",wikidata,M,Q127345,way
 "Księdza Jana Gałeczki",wikidata,M,Q11717525,way
 "Księdza Jana Machy",wikidata,M,Q16561549,way
 "Księdza Józefa Czempiela",wikidata,M,Q4508863,way
@@ -112,10 +112,12 @@ Krakusa,wikidata,M,Q1049201,way
 "Promenada generała Jerzego Ziętka",wikidata,M,Q327529,way
 "Rajnholda Domina",wikidata,M,Q108329797,way
 "Romualda Traugutta",wikidata,M,Q941645,way
+"Rondo Józefa Murgota",wikidata,M,Q55363613,way
 "Rondo Wincentego Spaltensteina",wikidata,M,Q9375106,way
 "Rondo gen. Stanisława Sosabowskiego",wikidata,M,Q221531,way
 "Rondo im. Gerarda Cieślika",wikidata,M,Q947289,way
 "Rondo imienia księdza Prałata Franciszka Gębały",wikidata,M,Q105337430,way
+"Skwer Józefa Murgota",wikidata,M,Q55363613,way
 "Stanisława Moniuszki",wikidata,M,Q217613,way
 "Stanisława Wyspiańskiego",wikidata,M,Q312627,way
 "Stanisława Żółkiewskiego",wikidata,M,Q453523,way
