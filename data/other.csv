@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 "Aleja Bojowników o Wolność i Demokrację",wikidata,,Q1126143,way
 "Aleja Gwiazd",wikidata,,Q523,way
 "Aleja Leśna",wikidata,,Q4421,way
+"Aleja Wojska Polskiego",wikidata,,Q9377431,way
 "Aleja Żyrafy",wikidata,,Q56328943,way
 "Armii Krajowej",wikidata,,Q152529,way
 Astrów,wikidata,,Q517130,way
@@ -22,6 +23,7 @@ Franciszkańska,wikidata,,Q165005,way
 Francuska,wikidata,,Q142,way
 Gdańska,wikidata,,Q1792,way
 Gnieźnieńska,wikidata,,Q51432,way
+Górnicza,wikidata,,Q21468747,way
 Górnośląska,wikidata,,Q81011,way
 Grabowa,wikidata,,Q158513,way
 Graniczna,wikidata,,Q133346,way
@@ -60,6 +62,7 @@ Olchowa,wikidata,,Q25239,way
 Olzy,wikidata,,Q1331973,way
 Orląt,wikidata,,Q1777763,way
 Oświęcimska,wikidata,,Q7342,way
+Parkowa,wikidata,,Q22698,way
 Piekarska,wikidata,,Q160131,way
 "Plac Piastowski",wikidata,,Q1929625,way
 Poleska,wikidata,,Q208987,way
@@ -67,12 +70,15 @@ Powstańców,wikidata,,Q703893,way
 Poznańska,wikidata,,Q268,way
 Raciborska,wikidata,,Q25302,way
 Racjonalizatorów,wikidata,,Q20034943,way
+Racławicka,wikidata,,Q1962211,way
+Ratuszowa,wikidata,,Q25550691,way
 Rozbarska,wikidata,,Q2171238,way
 Różana,wikidata,,Q24947353,way
 Rycerska,wikidata,,Q837268,way
 Siemianowicka,wikidata,,Q158485,way
 Skrajna,wikidata,,Q133346,way
 Sokoła,wikidata,,Q1703457,way
+Sportowa,wikidata,,Q349,way
 Stalowa,wikidata,,Q11427,way
 Szczecińska,wikidata,,Q393,way
 Szpitalna,wikidata,,Q16917,way
@@ -82,6 +88,7 @@ Tyniecka,wikidata,,Q3487449,way
 Tęczowa,wikidata,,Q1052,way
 Wolności,wikidata,,Q2979,way
 Wrocławska,wikidata,,Q1799,way
+Węglowa,wikidata,,Q732607,way
 Zabrska,wikidata,,Q103892,way
 Zwycięstwa,wikidata,,Q50000,way
 Łagiewnicka,wikidata,,Q9393948,way
@@ -93,16 +100,18 @@ Zwycięstwa,wikidata,,Q50000,way
 Akacjowa,,,,way
 "Aleja Fali",,,,way
 "Aleja Harcerska",,,,way
+"Aleja Karolinki",,,,way
 "Aleja Klonowa",,,,way
 "Aleja Muzyków",,,,way
 "Aleja Parkowa",,,,way
 "Aleja Planetarium",,,,way
 "Aleja Różana",,,,way
+"Aleja Skośna",,,,way
 "Aleja Spacerowa",,,,way
 "Aleja Sportowa",,,,way
 "Aleja Targowa",,,,way
 "Aleja Widokowa",,,,way
-"Aleja Wojska Polskiego",,,,way
+"Aleja Wiązowa",,,,way
 "Aleja Wycieczkowa",,,,way
 "Aleja Łani",,,,way
 Antoniów,,,,way
@@ -131,11 +140,11 @@ Dyrekcyjna,,,,way
 Działkowa,,,,way
 Dębowa,,,,way
 Długa,,,,way
+"E1Gokart Chorzów",,,,way
 Filarowa,,,,way
 Gajowa,,,,way
 Gliwicka,,,,way
 Górna,,,,way
-Górnicza,,,,way
 Gołębia,,,,way
 Gościnna,,,,way
 Gruntowa,,,,way
@@ -180,7 +189,6 @@ Odległa,,,,way
 Ogrodowa,,,,way
 Okrężna,,,,way
 Opolska,,,,way
-Parkowa,,,,way
 "Pawilon 1 (ruiny)",,,,way
 "Plac AKS",,,,way
 "Plac Atrakcji",,,,way
@@ -198,15 +206,14 @@ Polna,,,,way
 Pomorska,,,,way
 Poprzeczna,,,,way
 Porzeczkowa,,,,way
+"Projektowane przedłużenie ulicy Krakusa",,,,way
 Prosta,,,,way
 Prześwit,,,,way
 "Przy Gazowni",,,,way
 Przyjemna,,,,way
 Ptasia,,,,way
 Pudlerska,,,,way
-Racławicka,,,,way
 Radoszowska,,,,way
-Ratuszowa,,,,way
 Rodzinna,,,,way
 "Rodziny Oswaldów",,,,way
 "Rondo Klimzowiec",,,,way
@@ -219,7 +226,6 @@ Rębaczy,,,,way
 Sadowa,,,,way
 Składowa,,,,way
 Sosnowa,,,,way
-Sportowa,,,,way
 Spółdzielcza,,,,way
 Społeczna,,,,way
 Stacyjna,,,,way
@@ -248,7 +254,6 @@ Wiśniowa,,,,way
 Wrzosowa,,,,way
 Wschodnia,,,,way
 Wycieczkowa,,,,way
-Węglowa,,,,way
 Węzłowiec,,,,way
 Zapłocie,,,,way
 Zielona,,,,way
