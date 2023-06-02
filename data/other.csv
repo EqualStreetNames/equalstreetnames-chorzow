@@ -7,7 +7,9 @@ name,source,gender,wikidata,type
 "Aleja Bojowników o Wolność i Demokrację",wikidata,,Q1126143,way
 "Aleja Gwiazd",wikidata,,Q523,way
 "Aleja Leśna",wikidata,,Q4421,way
+"Aleja Muzyków",wikidata,,Q639669,way
 "Aleja Parkowa",wikidata,,Q22698,way
+"Aleja Planetarium",wikidata,,Q833520,way
 "Aleja Wojska Polskiego",wikidata,,Q9377431,way
 "Aleja Żyrafy",wikidata,,Q56328943,way
 "Armii Krajowej",wikidata,,Q152529,way
@@ -22,6 +24,8 @@ Bytkowska,wikidata,,Q9182791,way
 Chropaczowska,wikidata,,Q1088384,way
 Cicha,wikidata,,Q502261,way
 Cieszyńska,wikidata,,Q321197,way
+Cmentarna,wikidata,,Q39614,way
+Czysta,wikidata,,Q107998880,way
 Częstochowska,wikidata,,Q103217,way
 Dębowa,wikidata,,Q12004,way
 Farna,wikidata,,Q11745856,way
@@ -39,11 +43,15 @@ Grabowa,wikidata,,Q158513,way
 Graniczna,wikidata,,Q133346,way
 Grunwaldzka,wikidata,,Q1025864,way
 Głogowska,wikidata,,Q66013,way
+Hajducka,wikidata,,Q1076659,way
 Harcerska,wikidata,,Q92904236,way
 Hetmańska,wikidata,,Q625652,way
 Hutnicza,wikidata,,Q18576582,way
+Jagiellońska,wikidata,,Q194355,way
+Jasna,wikidata,,Q221656,way
 Jesionowa,wikidata,,Q128887,way
 Jodłowa,wikidata,,Q25350,way
+Kadecka,wikidata,,Q316498,way
 Karolinki,wikidata,,Q1734206,way
 Karpacka,wikidata,,Q1288,way
 Karwińska,wikidata,,Q191793,way
@@ -71,7 +79,7 @@ Michałkowicka,wikidata,,Q11779429,way
 Miechowicka,wikidata,,Q324927,way
 Młodzieżowa,wikidata,,Q190007,way
 Niedźwiedziniec,wikidata,,Q11791466,way
-Odrodzenia,wikidata,,Q4692,way
+Odrodzenia,wikidata,,Q11789695,way
 Odrowążów,wikidata,,Q1763582,way
 Odrzańska,wikidata,,Q552,way
 Olchowa,wikidata,,Q25239,way
@@ -81,25 +89,31 @@ Orląt,wikidata,,Q1777763,way
 Oświęcimska,wikidata,,Q7342,way
 Parkowa,wikidata,,Q22698,way
 Piekarska,wikidata,,Q160131,way
+"Plac Dworcowy",wikidata,,Q55488,way
 "Plac Osiedlowy",wikidata,,Q2277441,way
 "Plac Piastowski",wikidata,,Q1929625,way
 Podmiejska,wikidata,,Q188509,way
+Pogodna,wikidata,,Q11663,way
 Pokoju,wikidata,,Q454,way
 Poleska,wikidata,,Q208987,way
 Polna,wikidata,,Q188869,way
+Pomorska,wikidata,,Q104520,way
 Powstańców,wikidata,,Q703893,way
 Poznańska,wikidata,,Q268,way
 Prosta,wikidata,,Q37105,way
+Przyjemna,wikidata,,Q208195,way
 Pudlerska,wikidata,,Q97372055,way
 Raciborska,wikidata,,Q25302,way
 Racjonalizatorów,wikidata,,Q20034943,way
 Racławicka,wikidata,,Q1962211,way
 Ratuszowa,wikidata,,Q25550691,way
 Rodzinna,wikidata,,Q8436,way
+"Rondo Niebieskich Mistrzów",wikidata,,Q301726,way
 "Rondo Praw Kobiet",wikidata,,Q223569,way
 Rozbarska,wikidata,,Q2171238,way
 Różana,wikidata,,Q24947353,way
 Rycerska,wikidata,,Q837268,way
+Rynek,wikidata,,Q13033698,relation+way
 Siemianowicka,wikidata,,Q158485,way
 Skrajna,wikidata,,Q133346,way
 Sokoła,wikidata,,Q1703457,way
@@ -117,6 +131,7 @@ Tysiąclecia,wikidata,,Q9363732,way
 Tęczowa,wikidata,,Q1052,way
 Ułańska,wikidata,,Q382603,way
 Wileńska,wikidata,,Q216,way
+Wiosenna,wikidata,,Q1312,way
 Wiśniowa,wikidata,,Q2946681,way
 Wolności,wikidata,,Q2979,way
 Wrocławska,wikidata,,Q1799,way
@@ -134,8 +149,6 @@ Akacjowa,,,,way
 "Aleja Harcerska",,,,way
 "Aleja Karolinki",,,,way
 "Aleja Klonowa",,,,way
-"Aleja Muzyków",,,,way
-"Aleja Planetarium",,,,way
 "Aleja Różana",,,,way
 "Aleja Skośna",,,,way
 "Aleja Spacerowa",,,,way
@@ -158,10 +171,8 @@ Chałupki,,,,way
 Chocimska,,,,way
 Chorzowska,,,,way
 Cisowa,,,,way
-Cmentarna,,,,way
 Cyprysowa,,,,way
 Czereśniowa,,,,way
-Czysta,,,,way
 Dobrodzieńska,,,,way
 Dojazdowa,,,,way
 "Drogowa Trasa Średnicowa",,,,way
@@ -176,17 +187,12 @@ Gościnna,,,,way
 Gruntowa,,,,way
 Gwarecka,,,,way
 Główna,,,,way
-Hajducka,,,,way
 Inwalidzka,,,,way
-Jagiellońska,,,,way
 "Jakuba Grządziela",,,,way
-Jasna,,,,way
 Jałowcowa,,,,way
 Jubileuszowa,,,,way
-Kadecka,,,,way
 Kluczborska,,,,way
 Kolejowa,,,,way
-Kosynierów,,,,way
 Kresowa,,,,way
 Krótka,,,,way
 Kruszcowa,,,,way
@@ -210,20 +216,16 @@ Okrężna,,,,way
 "Pawilon 1 (ruiny)",,,,way
 "Plac AKS",,,,way
 "Plac Atrakcji",,,,way
-"Plac Dworcowy",,,,way
 "Plac Mistrzów",,,,way
 "Plac Powstańców Śląskich",,,,way
 "Planty Śląskie",,,,way
 Platanowa,,,,way
 Pocztowa,,,,way
-Pogodna,,,,way
-Pomorska,,,,way
 Poprzeczna,,,,way
 Porzeczkowa,,,,way
 "Projektowane przedłużenie ulicy Krakusa",,,,way
 Prześwit,,,,way
 "Przy Gazowni",,,,way
-Przyjemna,,,,way
 Ptasia,,,,way
 Pumptrack,,,,way
 Radoszowska,,,,way
@@ -231,9 +233,6 @@ Radoszowska,,,,way
 "Rondo Klimzowiec",,,,way
 "Rondo Królewskiej Huty",,,,way
 "Rondo Mirosława Breguły",,,,way
-"Rondo Niebieskich Mistrzów",,,,way
-"Rondo Świętego Floriana - Patrona Miasta",,,,way
-Rynek,,,,relation+way
 Rębaczy,,,,way
 Sadowa,,,,way
 Składowa,,,,way
@@ -255,7 +254,6 @@ Wesoła,,,,way
 Wiejska,,,,way
 Wierzbowa,,,,way
 Willowa,,,,way
-Wiosenna,,,,way
 Wrzosowa,,,,way
 Wschodnia,,,,way
 Wycieczkowa,,,,way
