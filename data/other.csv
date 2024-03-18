@@ -141,6 +141,7 @@ Zielona,wikidata,,Q3133,way
 Zwycięstwa,wikidata,,Q50000,way
 Łagiewnicka,wikidata,,Q9393948,way
 Śląska,wikidata,,Q81720,way
+Ślęzan,wikidata,,Q2294144,way
 Żelazna,wikidata,,Q677,way
 Żołnierska,wikidata,,Q4991371,way
 "16 Lipca",,,,way
@@ -158,6 +159,7 @@ Akacjowa,,,,way
 "Aleja Wiązowa",,,,way
 "Aleja Wycieczkowa",,,,way
 "Aleja Zielonej Łąki",,,,way
+"Aleja chorzowskiego Kocyndra",,,,way
 "Aleja Łani",,,,way
 Antoniów,,,,way
 Antoniowska,,,,way
@@ -166,12 +168,10 @@ Boczna,,,,way
 Brzezińska,,,,way
 Bukowa,,,,way
 Bytomskich,,,,way
-Cedrowa,,,,way
 Chabrowa,,,,way
 Chałupki,,,,way
 Chocimska,,,,way
 Chorzowska,,,,way
-Cisowa,,,,way
 Cyprysowa,,,,way
 Czereśniowa,,,,way
 Dobrodzieńska,,,,way
@@ -205,7 +205,6 @@ Leszczynowa,,,,way
 Malinowa,,,,way
 Metalowców,,,,way
 Miła,,,,way
-Modrzewiowa,,,,way
 Młyńska,,,,way
 Nomiarki,,,,way
 Nowa,,,,way
@@ -220,6 +219,7 @@ Okrężna,,,,way
 "Plac Atrakcji",,,,way
 "Plac Mistrzów",,,,way
 "Plac Powstańców Śląskich",,,,way
+"Planowane przedłużenie Ul. Księdza Ludwika Bojarskiego",,,,way
 "Planty Śląskie",,,,way
 Platanowa,,,,way
 Pocztowa,,,,way
@@ -233,11 +233,12 @@ Radoszowska,,,,way
 "Rodziny Oswaldów",,,,way
 "Rondo Klimzowiec",,,,way
 "Rondo Królewskiej Huty",,,,way
+"Rondo Mirosława Breguły",,,,way
 "Rondo Starochorzowskie",,,,way
+"Rondo Wielkiej Orkiestry Świątecznej Pomocy",,,,way
 Rębaczy,,,,way
 Sadowa,,,,way
 Składowa,,,,way
-Sosnowa,,,,way
 Spółdzielcza,,,,way
 Społeczna,,,,way
 Stacyjna,,,,way
@@ -264,7 +265,6 @@ Zapłocie,,,,way
 Zjednoczenia,,,,way
 Złota,,,,way
 "planowany przebieg DK79",,,,way
-"rondo Wincentego Spaltensteina",,,,way
 stairs,,,,way
 Łąkowa,,,,way
 Średnia,,,,way
