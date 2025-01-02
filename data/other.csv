@@ -64,6 +64,7 @@ Kochłowicka,wikidata,,Q10951700,way
 Kopalniana,wikidata,,Q820477,way
 Kozielska,wikidata,,Q154661,way
 Krakowska,wikidata,,Q31487,way
+Krakusa,wikidata,,Q1049201,way
 Krzyżowa,wikidata,,Q40843,way
 Legnicka,wikidata,,Q106274,way
 Leśna,wikidata,,Q4421,way
@@ -72,7 +73,7 @@ Lipowa,wikidata,,Q127849,way
 Lwowska,wikidata,,Q36036,way
 Maciejkowicka,wikidata,,Q11765768,way
 Mazurska,wikidata,,Q815834,way
-Mała,wikidata,,Q24245823,way
+Mała,wikidata,,Q16042592,way
 Michałkowicka,wikidata,,Q11779429,way
 Miechowicka,wikidata,,Q324927,way
 Młodzieżowa,wikidata,,Q190007,way
@@ -84,7 +85,7 @@ Olchowa,wikidata,,Q25239,way
 Olzy,wikidata,,Q1331973,way
 Opolska,wikidata,,Q92212,way
 Orląt,wikidata,,Q1777763,way
-Oświęcimska,wikidata,,Q7342,way
+Oświęcimska,wikidata,,Q10951700;Q7342,way
 Parkowa,wikidata,,Q22698,way
 Piekarska,wikidata,,Q160131,way
 "Plac Dworcowy",wikidata,,Q55488,way
@@ -108,6 +109,8 @@ Ratuszowa,wikidata,,Q25550691,way
 Rodzinna,wikidata,,Q8436,way
 "Rondo Niebieskich Mistrzów",wikidata,,Q301726,way
 "Rondo Praw Kobiet",wikidata,,Q223569,way
+"Rondo Starochorzowskie",wikidata,,Q1076654,way
+"Rondo Wielkiej Orkiestry Świątecznej Pomocy",wikidata,,Q1309088,way
 Rozbarska,wikidata,,Q2171238,way
 Różana,wikidata,,Q24947353,way
 Rycerska,wikidata,,Q837268,way
@@ -122,6 +125,7 @@ Szkolna,wikidata,,Q3914,way
 Szpitalna,wikidata,,Q16917,way
 Sztygarska,wikidata,,Q1581378,way
 Szybowa,wikidata,,Q556186,way
+Sąsiedzka,wikidata,,Q1986893,way
 Słowiańska,wikidata,,Q40477,way
 Teatralna,wikidata,,Q11635,way
 Trzyniecka,wikidata,,Q986102,way
@@ -167,7 +171,6 @@ Azotowa,,,,way
 Boczna,,,,way
 Brzezińska,,,,way
 Bukowa,,,,way
-Bytomskich,,,,way
 Chabrowa,,,,way
 Chałupki,,,,way
 Chocimska,,,,way
@@ -214,13 +217,11 @@ Odległa,,,,way
 "Ogródki Działkowe im. Damrota",,,,way
 Ogrodowa,,,,way
 Okrężna,,,,way
-"Pawilon 1 (ruiny)",,,,way
 "Piotra Skargi",,,,way
 "Plac AKS",,,,way
 "Plac Atrakcji",,,,way
 "Plac Mistrzów",,,,way
 "Plac Powstańców Śląskich",,,,way
-"Planowane przedłużenie Ul. Księdza Ludwika Bojarskiego",,,,way
 "Planty Śląskie",,,,way
 Platanowa,,,,way
 Pocztowa,,,,way
@@ -231,23 +232,19 @@ Prześwit,,,,way
 Ptasia,,,,way
 Radoszowska,,,,way
 "Rodziny Oswaldów",,,,way
+"Rondo Antoniego Sorichty",,,,way
 "Rondo Klimzowiec",,,,way
 "Rondo Królewskiej Huty",,,,way
-"Rondo Mirosława Breguły",,,,way
-"Rondo Starochorzowskie",,,,way
-"Rondo Wielkiej Orkiestry Świątecznej Pomocy",,,,way
 Rębaczy,,,,way
 Sadowa,,,,way
 Składowa,,,,way
 Spółdzielcza,,,,way
 Społeczna,,,,way
 Stacyjna,,,,way
-"Starego Zdroju",,,,way
 Stawowa,,,,way
 Stokrotek,,,,way
 "Strzelców Bytomskich",,,,way
 Szczęśliwa,,,,way
-Sąsiedzka,,,,way
 Słoneczna,,,,way
 Słowików,,,,way
 Topolowa,,,,way
